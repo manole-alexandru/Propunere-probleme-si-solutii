@@ -1,6 +1,6 @@
 # Recomandări pentru propunătorii de probleme
 
-1. Input si Output (v. si folderul Solutii)
+## Input si Output (v. si folderul Solutii)
 
 Candidații primesc un set de date pentru a face antrenarea – dataset_train.csv si unul pentru evaluare – dataset_eval.csv. La cel de-al doilea, campul tinta, “Price”, este ascuns.
 
@@ -11,7 +11,7 @@ Candidații au doua fisiere de salvat in folderul lor:
 
 Candidații trebuie sa știe dinainte metrica de evaluare.
 
-1. Procesarea si crearea unui dataset
+## Procesarea si crearea unui dataset
 
 Porniti de la un dataset existent, nu foarte cunoscut de preferat dar incercati sa evidentiati capcanele pe cat posibil sau dificultatile ulterioare in incarcare si procesare.
 
@@ -19,6 +19,6 @@ Spre exemplu mi-am dat seama ca ar trebui sa las coloanele din setul original ca
 
 In acest sens am procesat dataset-ul original cu Dataset.ipynb, posibil sa gasiti acest cod util.
 
-1. Implementati solutia si iterati asupra ei astfel incat sa fie realizabila cu cat mai puține librarii aditionale sau API-uri.
+## Implementati solutia si iterati asupra ei astfel incat sa fie realizabila cu cat mai puține librarii aditionale sau API-uri.
 
-Spre exemplu, intentionat in solutia Output_CandidatX am lasat procesarea datelor manuala, cu cat mai putin interactiuni.
+Spre exemplu, intentionat in solutia din Solutii am lasat procesarea datelor manuala, cu cat mai putin interactiuni.
