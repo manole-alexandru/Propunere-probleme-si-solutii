@@ -1,4 +1,4 @@
-# Exemplu de problema (pr
+# Exemplu de problema (prezicerea preturilor jocurilor de pe platforma Steam)
 
 Implementati un model de AI pentru a prezice preturile din jocurile de pe Steam avand la dispozitie un set de antrenare – dataset_train.csv - si unul pe care trebuie sa faceti doar predictia - dataset_eval.csv
 
